@@ -77,13 +77,13 @@ To get a local copy up and running follow these simple steps.
 7. Open your browser and navigate to `http://localhost:5173` to view the app.
 
 
-**Educational Use Only License (Non-Commercial)**
+## License                                                                                                             **Educational Use Only License (Non-Commercial)**
 
 Copyright (c) 2026
 
 Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use the Software **only for educational and non-commercial purposes**, subject to the following conditions:
 
-- The Software may be used for learning, coursework, demos, and personal study.
-- The Software may not be used, in whole or in part, for any commercial purpose, business activity, revenue-generating use, or production deployment.
-- You may not sell, sublicense, or distribute the Software as part of a commercial product or service.
-- This license must be included with any permitted copies or portions of the Software.
+* The Software may be used for learning, coursework, demos, and personal study.
+* The Software may not be used, in whole or in part, for any commercial purpose, business activity, revenue-generating use, or production deployment.
+* You may not sell, sublicense, or distribute the Software as part of a commercial product or service.
+* This license must be included with any permitted copies or portions of the Software.
